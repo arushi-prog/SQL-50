@@ -33,6 +33,7 @@ Complete all 50 SQL problems and use this repository to track my SQL interview p
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0197-rising-temperature](https://github.com/arushi-prog/SQL-50/tree/main/0197-rising-temperature/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/arushi-prog/SQL-50/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/arushi-prog/SQL-50/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/arushi-prog/SQL-50/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
