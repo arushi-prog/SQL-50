@@ -27,3 +27,11 @@ My solutions for the LeetCode SQL 50 study plan.
 ## Goal
 
 Complete all 50 SQL problems and use this repository to track my SQL interview preparation.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/arushi-prog/SQL-50/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+<!---LeetCode Topics End-->
